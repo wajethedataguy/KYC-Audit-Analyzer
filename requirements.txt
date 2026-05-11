@@ -1,0 +1,4 @@
+# Requirements for KYC_Viewer
+pandas
+openpyxl
+# Add other dependencies as needed, e.g. PyQt5 or Tkinter for UI
