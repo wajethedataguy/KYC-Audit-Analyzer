@@ -23,7 +23,7 @@ KYC_Viewer/
 ```
 
 ## Screenshots
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](docs/screenshots/Dashboard.png)
 
 ## Usage
 Run the application:
